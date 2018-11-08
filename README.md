@@ -1,2 +1,2 @@
-# Stock-movement-prediction
-Stocks movement prediction: A Technical Indicators approach
+# Stock-Movement-Prediction
+Stocks movement prediction: Technical Indicators approach
